@@ -41,6 +41,7 @@ public class Capitan {
                         case 11: cuentaAtras = 2.4f; break;
                         case 12: cuentaAtras = 1.6f; break;
                         case 13: cuentaAtras = 4.4f; break;
+                        case 14: cuentaAtras = 444444.4444f; break;
                     }
 
 
